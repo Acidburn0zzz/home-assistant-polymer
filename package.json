@@ -85,7 +85,7 @@
     "leaflet": "^1.4.0",
     "lit-element": "^2.2.0",
     "lit-html": "^1.1.0",
-    "marked": "^0.6.1",
+    "marked": "^0.7.0",
     "mdn-polyfills": "^5.16.0",
     "memoize-one": "^5.0.2",
     "moment": "^2.24.0",
